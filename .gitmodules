@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "edgebundleR"]
+	path = edgebundleR
+	url = https://github.com/garthtarr/edgebundler
+	shallow = true
+	registered = true
+[submodule "mplot"]
+	path = mplot
+	url = https://github.com/garthtarr/mplot
+	shallow = true
+	registered = true
+[submodule "pairsD3"]
+	path = pairsD3
+	url = https://github.com/garthtarr/pairsd3
+	shallow = true
+	registered = true
