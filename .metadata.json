@@ -1,10 +1,10 @@
 [
   {
-    "package": "mplot",
+    "package": "edgebundleR",
     "oncran": true
   },
   {
-    "package": "edgebundleR",
+    "package": "mplot",
     "oncran": true
   },
   {
