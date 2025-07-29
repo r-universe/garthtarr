@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "BayesianLasso"]
+	path = BayesianLasso
+	url = https://github.com/garthtarr/bayesianlasso
 [submodule "edgebundleR"]
 	path = edgebundleR
 	url = https://github.com/garthtarr/edgebundler
